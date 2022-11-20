@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Homa.
 - 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning HTML, CSS, Js and ...
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ...
 - 📫 How to reach me: homa.zohdi@hotmail.com
 
 <!---
